@@ -1,5 +1,6 @@
 // JavaScript Project 1
 
+// I just edited it - Jesse Dekel
 
 // Substitute console.log with c
 // Use controlled tell function instead?
